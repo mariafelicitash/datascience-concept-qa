@@ -1,0 +1,13 @@
+torch
+transformers
+sentence-transformers
+langchain
+faiss-cpu
+gradio
+datasets
+accelerate
+numpy
+pandas
+scikit-learn
+jupyter
+ipywidgets
